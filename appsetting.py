@@ -6,4 +6,4 @@ urlSCIM = "http://localhost:3000/"
 # End Url
 protocol = "http://"
 host = "127.0.0.1"
-port = 5000
+port = 8080
