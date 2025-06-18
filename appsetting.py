@@ -1,5 +1,5 @@
 # Connection DB
-connectionDBBKFAuth = "postgresql+asyncpg://vripostgres:VcBr%i0sBg7@vri-db-postgresql-dev-01.c9oq4ic8orwz.ap-southeast-7.rds.amazonaws.com/bkf_system"
+connectionDBBKFAuth = "postgresql+asyncpg://postgres:2001sBoomtrptw@db.byaxcjdqrnhqxrowwuud.supabase.co:5432/postgres"
 # End Connection DB
 # Url
 urlBKFAuth = "http://localhost:3000/"
